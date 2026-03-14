@@ -9,7 +9,7 @@ const config = {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
         serverName: "The Claw Club", /*Server name*/
         serverIp: "The Claw Club", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        discordServerID: "1478551699261227130" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
